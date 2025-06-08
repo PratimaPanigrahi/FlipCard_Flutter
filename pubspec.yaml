@@ -1,0 +1,36 @@
+name: memory_card_game
+description: A simple memory card matching game in Flutter using images.
+
+publish_to: 'none' # Prevents accidental publishing to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2 # Optional, for iOS-style icons
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/dino.png
+    - assets/images/peacock.png
+    - assets/images/shark.png
+    - assets/images/wolf.png
+    - assets/images/octo.png
+    - assets/images/zoo.png
+    - assets/images/rabbit.png
+    - assets/images/seahorse.png
+    - assets/images/game_icon.png
+    
