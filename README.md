@@ -64,9 +64,9 @@ flutter run
 flutter build apk --release
 ```
 ## Open in VS Code / Android Studio:
--Navigate to the project folder.
--Open the project and hit the Run
--▶️ button or use the terminal.
+- Navigate to the project folder.
+- Open the project and hit the Run
+- ▶️ button or use the terminal.
 
 ---
 
