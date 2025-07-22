@@ -72,7 +72,7 @@ Open the project and hit the Run
 ### 1. 🏁 Start Page
 -	On Run ➝ routes to level selector
 - Includes level selection button.
-<img src="assets/images/start_page.png" alt="Start Page" width="400" height="400"/>
+<img src="assets/images/start_page.png" alt="Start Page" width="340" height="400"/>
 
 
 ### 2. 🕹️ Game Page
@@ -89,7 +89,7 @@ Open the project and hit the Run
 ### 3. 🧠 Game End Page
 - Shows final **score**
 - Includes a **“Back to Menu”** option.
-<img src="assets/images/final.png" alt="Game End Page" width="400" height="400"/>
+<img src="assets/images/final.png" alt="Game End Page" width="340" height="400"/>
 
 
 
