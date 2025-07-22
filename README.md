@@ -37,27 +37,30 @@
 
 ### Steps:
 
-```bash
+
 # Clone the Repository
+```bash
 git clone https://github.com/your-username/tap-and-play.git
 cd tap-and-play
 ```
 
-```bash
+
 # Get Dependencies And Packages
+```bash
 flutter pub get
 ```
 
-```bash
+
 # Run the App
 -Ensure a device or emulator is connected.
 -Use the following command:
-
+```bash
 flutter run
 ```
 
-```bash
+
 # Optional: Build for Release
+```bash
 flutter build apk --release
 ```
 ## Open in VS Code / Android Studio:
@@ -105,8 +108,8 @@ Open the project and hit the Run
 
 - Built a multi-screen app using **Flutter** and **Dart** with clean navigation  
 - Designed a responsive, dark-themed UI using Flutter widgets  
-- Handled interactive logic and state updates in **Dart**  
-- Applied best practices in **Flutter** app structure and code organization  
+- Handled interactive logic and state updates in **Dart**
+
   ---
  ## 📬 Contact
 - For any queries or contributions, feel free to open an issue or submit a pull request.
