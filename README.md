@@ -92,14 +92,12 @@ Open the project and hit the Run
 <img src="assets/images/final.png" alt="Game End Page" width="340" height="400"/>
 
 
-
 ## 📁 File Structure
 
-| File Name         | Responsibility                                |
-|----------------  -|------------------------------------------------|
-| `main.dart`       | App entry point, MaterialApp, routing setup   |
-| `start_page.dart` | Home screen with navigation to levels       |
-| `game_level.dart` | Level selection UI and navigation logic      |
-| `game_page.dart`  | Game logic per level and dynamic UI updates  |
-
+| File Name         | Responsibility                                 |
+|-------------------|-------------------------------------------------|
+| `main.dart`       | App entry point, MaterialApp, routing setup     |
+| `start_page.dart` | Home screen with navigation to levels           |
+| `game_level.dart` | Level selection UI and navigation logic         |
+| `game_page.dart`  | Game logic per level and dynamic UI updates     |
 ---
