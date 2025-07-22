@@ -72,7 +72,7 @@ Open the project and hit the Run
 ### 1. 🏁 Start Page
 -	On Run ➝ routes to level selector
 - Includes level selection button.
-<img src="assets/images/start_page.png" alt="Start Page" width="400" height="200"/>
+<img src="assets/images/start_page.png" alt="Start Page" width="400" height="400"/>
 
 
 ### 2. 🕹️ Game Page
@@ -80,16 +80,16 @@ Open the project and hit the Run
 - Interactive cards to flip and match.
 
 <p float="left">
-  <img src="assets/images/main_page.png" alt="Main Game Page" width="340"/>
+  <img src="assets/images/main_page.png" alt="Main Game Page" width="340" height="400"/>
   &nbsp;
-  <img src="assets/images/cards.png" alt="Cards View" width="340"/>
+  <img src="assets/images/cards.png" alt="Cards View" width="340" height="400"/>
 </p>
 
 
 ### 3. 🧠 Game End Page
 - Shows final **score**
 - Includes a **“Back to Menu”** option.
-<img src="assets/images/final.png" alt="Game End Page" width="400"/>
+<img src="assets/images/final.png" alt="Game End Page" width="400" height="400"/>
 
 
 
