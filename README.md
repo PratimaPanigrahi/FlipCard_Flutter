@@ -1,4 +1,3 @@
-
 # 🎮 Memory Card Game Flutter Game App
 
 ## 📌 Project Name
@@ -62,8 +61,9 @@ flutter run
 flutter build apk --release
 ```
 ## Open in VS Code / Android Studio:
--Navigate to the project folder.
--Open the project and hit the Run ▶️ button or use the terminal.
+Navigate to the project folder.
+Open the project and hit the Run
+▶️ button or use the terminal.
 
 ---
 
@@ -72,8 +72,8 @@ flutter build apk --release
 ### 1. 🏁 Start Page
 -	On Run ➝ routes to level selector
 - Includes level selection button.
-<img src="assets/images/start_page.png" alt="Start Page" width="400"/>
----
+<img src="assets/images/start_page.png" alt="Start Page" width="400" height="200"/>
+
 
 ### 2. 🕹️ Game Page
 - Displays/Title: `"Memory Game - Level Easy / Medium / Hard"`
@@ -84,22 +84,22 @@ flutter build apk --release
   &nbsp;
   <img src="assets/images/cards.png" alt="Cards View" width="340"/>
 </p>
----
+
 
 ### 3. 🧠 Game End Page
 - Shows final **score**
 - Includes a **“Back to Menu”** option.
 <img src="assets/images/final.png" alt="Game End Page" width="400"/>
 
----
+
 
 ## 📁 File Structure
 
-| File Name       | Responsibility                                |
-|-----------------|------------------------------------------------|
-| `main.dart`     | App entry point, MaterialApp, routing setup   |
+| File Name         | Responsibility                                |
+|----------------  -|------------------------------------------------|
+| `main.dart`       | App entry point, MaterialApp, routing setup   |
 | `start_page.dart` | Home screen with navigation to levels       |
-| `game_level.dart`| Level selection UI and navigation logic      |
-| `game_page.dart` | Game logic per level and dynamic UI updates  |
+| `game_level.dart` | Level selection UI and navigation logic      |
+| `game_page.dart`  | Game logic per level and dynamic UI updates  |
 
 ---
