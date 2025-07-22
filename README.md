@@ -38,20 +38,20 @@
 ### Steps:
 
 
-# Clone the Repository
+#### Clone the Repository
 ```bash
 git clone https://github.com/your-username/tap-and-play.git
 cd tap-and-play
 ```
 
 
-# Get Dependencies And Packages
+#### Get Dependencies And Packages
 ```bash
 flutter pub get
 ```
 
 
-# Run the App
+#### Run the App
 -Ensure a device or emulator is connected.
 -Use the following command:
 ```bash
