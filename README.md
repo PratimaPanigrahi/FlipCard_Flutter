@@ -40,8 +40,7 @@
 
 #### Clone the Repository
 ```bash
-git clone [https://github.com/your-username/tap-and-play.git
-cd tap-and-play](https://github.com/PratimaPanigrahi/Flipcard_flutter.git)
+git clone https://github.com/PratimaPanigrahi/Flipcard_flutter.git
 ```
 
 
