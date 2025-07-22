@@ -72,20 +72,24 @@ flutter build apk --release
 ### 1. 🏁 Start Page
 -	On Run ➝ routes to level selector
 - Includes level selection button.
-![Start Page](assets/images/start_page.png)
-
+<img src="assets/images/start_page.png" alt="Start Page" width="400"/>
+---
 
 ### 2. 🕹️ Game Page
 - Displays/Title: `"Memory Game - Level Easy / Medium / Hard"`
 - Interactive cards to flip and match.
-![Game Page](assets/images/main_page.png)
-![Game Page](assets/images/card.png)
 
+<p float="left">
+  <img src="assets/images/main_page.png" alt="Main Game Page" width="340"/>
+  &nbsp;
+  <img src="assets/images/cards.png" alt="Cards View" width="340"/>
+</p>
+---
 
 ### 3. 🧠 Game End Page
 - Shows final **score**
 - Includes a **“Back to Menu”** option.
-![Game Page](assets/images/final.png)
+<img src="assets/images/final.png" alt="Game End Page" width="400"/>
 
 ---
 
