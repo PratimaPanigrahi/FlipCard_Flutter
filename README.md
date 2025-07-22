@@ -1,9 +1,9 @@
 
-# 🎮 Tap & Play – Flutter Game App
+# 🎮 Memory Card Game Flutter Game App
 
 ## 📌 Project Name
 
-**Tap & Play** is a fun and simple mobile game built with **Flutter** and **Dart**. Users can select levels and play by tapping the screen. The app features smooth navigation, a responsive dark theme, and a clean user interface. It serves as a great example of creating interactive and well-structured Flutter applications.
+**Memory Card Game** is a fun and simple mobile game built with **Flutter** and **Dart**. Users can select levels and play by tapping the screen. The app features smooth navigation, a responsive dark theme, and a clean user interface. It serves as a great example of creating interactive and well-structured Flutter applications.
 
 ---
 
@@ -24,7 +24,7 @@
 - **Language:** Dart  
 - **UI Components:** `Scaffold`, `MaterialApp`, `ElevatedButton`, `Navigator`, `Column`, `Center`, `Text`, `AppBar`  
 - **IDE & Tools:** Visual Studio Code  
-- **Platform:** Android/iOS (Flutter)
+- **Platform:** Flutter
 
 ---
 
@@ -33,7 +33,7 @@
 ### Prerequisites:
 
 - **Flutter SDK:** Install from [flutter.dev](https://flutter.dev)
-- **Android Studio / VS Code:** Install one IDE and configure Flutter & Dart plugins.
+- **VS Code:** Install one IDE and configure Flutter & Dart plugins.
 - **Device/Emulator:** Ensure a device or emulator is available for testing.
 
 ### Steps:
@@ -42,32 +42,50 @@
 # Clone the Repository
 git clone https://github.com/your-username/tap-and-play.git
 cd tap-and-play
+```
 
-# Get Dependencies
+```bash
+# Get Dependencies And Packages
 flutter pub get
+```
 
+```bash
 # Run the App
-flutter run
+-Ensure a device or emulator is connected.
+-Use the following command:
 
+flutter run
+```
+
+```bash
 # Optional: Build for Release
 flutter build apk --release
 ```
+## Open in VS Code / Android Studio:
+-Navigate to the project folder.
+-Open the project and hit the Run ▶️ button or use the terminal.
 
 ---
 
 ## 🖼️ Screens Overview
 
 ### 1. 🏁 Start Page
+-	On Run ➝ routes to level selector
 - Includes level selection button.
-- On clicking “Start Game” ➝ navigates to level selector.
+![Start Page](assets/images/start_page.png)
+
 
 ### 2. 🕹️ Game Page
-- Displays: `"Memory Game - Level Easy / Medium / Hard"`
+- Displays/Title: `"Memory Game - Level Easy / Medium / Hard"`
 - Interactive cards to flip and match.
+![Game Page](assets/images/main_page.png)
+![Game Page](assets/images/card.png)
+
 
 ### 3. 🧠 Game End Page
 - Shows final **score**
 - Includes a **“Back to Menu”** option.
+![Game Page](assets/images/final.png)
 
 ---
 
@@ -81,4 +99,3 @@ flutter build apk --release
 | `game_page.dart` | Game logic per level and dynamic UI updates  |
 
 ---
-
