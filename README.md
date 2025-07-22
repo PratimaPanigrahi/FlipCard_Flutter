@@ -1,12 +1,12 @@
-# 🎮 Memory Card Game Flutter Game App
+## 🎮 Memory Card Game Flutter Game App
 
-## 📌 Project Name
+### 📌 Project Name
 
 **Memory Card Game** is a fun and simple mobile game built with **Flutter** and **Dart**. Users can select levels and play by tapping the screen. The app features smooth navigation, a responsive dark theme, and a clean user interface. It serves as a great example of creating interactive and well-structured Flutter applications.
 
 ---
 
-## ✨ Key Features
+### ✨ Key Features
 
 - **Landing Page** with the game title and a “Start Game” button.
 - **Level Selection Screen** allowing users to choose from multiple game levels.
@@ -17,7 +17,7 @@
 
 ---
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 
 - **Framework:** Flutter  
 - **Language:** Dart  
@@ -59,11 +59,11 @@ flutter run
 ```
 
 
-## Optional: Build for Release
+### Optional: Build for Release
 ```bash
 flutter build apk --release
 ```
-## Open in VS Code / Android Studio:
+### Open in VS Code / Android Studio:
 - Navigate to the project folder.
 - Open the project and hit the Run
 - ▶️ button or use the terminal.
@@ -104,12 +104,12 @@ flutter build apk --release
 | `game_level.dart` | Level selection UI and navigation logic         |
 | `game_page.dart`  | Game logic per level and dynamic UI updates     |
 ---
-## 📘 What I Learned
+### 📘 What I Learned
 
 - Built a multi-screen app using **Flutter** and **Dart** with clean navigation  
 - Designed a responsive, dark-themed UI using Flutter widgets  
 - Handled interactive logic and state updates in **Dart**
 
   ---
- ## 📬 Contact
+ ### 📬 Contact
 - For any queries or contributions, feel free to open an issue or submit a pull request.
